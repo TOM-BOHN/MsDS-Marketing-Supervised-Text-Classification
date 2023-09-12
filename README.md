@@ -1,2 +1,2 @@
-# MsDS-Marketing-Supervised-Text-Classification
-DTSA 5798 Supervised Text Classification for Marketing Analytics
+# MsDS-marketing-supervised-text-classification
+DTSA 5798 Supervised Text Classification for Marketing Analytics Final Project
